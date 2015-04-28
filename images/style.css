@@ -200,6 +200,18 @@ input.button {
 	margin: 0; padding: 0;			
 }
 
+#content-wrap #design {
+	margin: 5px;
+	width: 40%;
+	display: inline-block;
+}
+
+#content-wrap #remove {
+	margin: 5px;
+	width: 40%;
+	display: inline-block;
+}
+
 /* box */
 .box {
 	margin: 10px 15px;			
